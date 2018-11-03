@@ -5,3 +5,9 @@
     - MVC
 
 - Design Patterns
+    - Creational
+
+        - Singleton: This pattern restrict the number of instance of a class to one object.
+        
+    - Structural
+    - Behavioral
